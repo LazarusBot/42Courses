@@ -1,0 +1,14 @@
+# ninja log v5
+0	288	1689780481544551437	TestGame_autogen/timestamp	a06ddd66a5218c67
+0	288	1689780481544551437	TestGame_autogen/mocs_compilation.cpp	a06ddd66a5218c67
+0	288	1689780481544551437	/Users/0xmaxou/Documents/42 /Programmation/C++/Games/build-TestGame-Desktop_arm_darwin_generic_mach_o_64bit-Release/TestGame_autogen/timestamp	a06ddd66a5218c67
+0	288	1689780481544551437	/Users/0xmaxou/Documents/42 /Programmation/C++/Games/build-TestGame-Desktop_arm_darwin_generic_mach_o_64bit-Release/TestGame_autogen/mocs_compilation.cpp	a06ddd66a5218c67
+288	792	1689780482051423925	CMakeFiles/TestGame.dir/TestGame_autogen/mocs_compilation.cpp.o	1aa3ecc00aac2bcc
+288	796	1689780482055513735	CMakeFiles/TestGame.dir/mainwindow.cpp.o	576d79bfc29188ea
+12	41	1689780659946125287	TestGame_autogen/timestamp	a06ddd66a5218c67
+12	41	1689780659946125287	TestGame_autogen/mocs_compilation.cpp	a06ddd66a5218c67
+12	41	1689780659946125287	/Users/0xmaxou/Documents/42 /Programmation/C++/Games/build-TestGame-Desktop_arm_darwin_generic_mach_o_64bit-Release/TestGame_autogen/timestamp	a06ddd66a5218c67
+12	41	1689780659946125287	/Users/0xmaxou/Documents/42 /Programmation/C++/Games/build-TestGame-Desktop_arm_darwin_generic_mach_o_64bit-Release/TestGame_autogen/mocs_compilation.cpp	a06ddd66a5218c67
+45	716	1689780660615872188	CMakeFiles/TestGame.dir/main.cpp.o	cc1c3494edc4c370
+45	716	1689780660616923026	CMakeFiles/TestGame.dir/mainwindow.cpp.o	576d79bfc29188ea
+716	835	1689780660738873126	TestGame.app/Contents/MacOS/TestGame	37a61a9b69071d54

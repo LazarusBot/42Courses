@@ -1,0 +1,9 @@
+/Users/0xmaxou/Documents/42 /Programmation/C++/Games/build-TestGame-Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/TestGame.dir
+/Users/0xmaxou/Documents/42 /Programmation/C++/Games/build-TestGame-Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/edit_cache.dir
+/Users/0xmaxou/Documents/42 /Programmation/C++/Games/build-TestGame-Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/rebuild_cache.dir
+/Users/0xmaxou/Documents/42 /Programmation/C++/Games/build-TestGame-Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/list_install_components.dir
+/Users/0xmaxou/Documents/42 /Programmation/C++/Games/build-TestGame-Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/install.dir
+/Users/0xmaxou/Documents/42 /Programmation/C++/Games/build-TestGame-Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/install/local.dir
+/Users/0xmaxou/Documents/42 /Programmation/C++/Games/build-TestGame-Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/install/strip.dir
+/Users/0xmaxou/Documents/42 /Programmation/C++/Games/build-TestGame-Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/TestGame_autogen_timestamp_deps.dir
+/Users/0xmaxou/Documents/42 /Programmation/C++/Games/build-TestGame-Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/TestGame_autogen.dir
